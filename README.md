@@ -33,13 +33,6 @@ Collaborative Code Editor is an online real-time code editing platform designed 
   - Built with ReactJS to provide an intuitive and responsive experience for users.
 - **CodeMirror Integration:** Utilizes CodeMirror for the code editor component, offering features such as line gutters, syntax highlighting, and autocompletion.
 
-## Contributors:
-- Devang (GitHub: [devang-profile])
-- Swastik (GitHub: [swastik-profile])
-- Tanmay (GitHub: [tanmay-profile])
+## 📸 Live Screenshot
+![My_code_editor](https://github.com/user-attachments/assets/a4736d90-fe17-4567-877d-7c0b1393e4b1)
 
-Feel free to contribute, report issues, and enhance the Collaborative Code Editor platform.
-
-[devang-profile]: https://github.com/devang2304
-[swastik-profile]: https://github.com/SwastikVerma
-[tanmay-profile]: https://github.com/Tanmay-0521
